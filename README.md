@@ -1,2 +1,2 @@
-# Dio desafio github primeiro repositorio
-Primeiro repositório do bootcamp DecolaTech - Desafio de projeto
+# Repositório para armazenar estudos acerca do Bootcamp DecolaTech
+ - Anotações acerta da introdução ao GitHub
