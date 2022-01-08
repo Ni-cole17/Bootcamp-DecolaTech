@@ -1,0 +1,15 @@
+C:\Users\nicol\Documents\DECOLATECH\Bootcamp-DecolaTech\Bootcamp-DecolaTech\PrimeiraAppConsole\bin\Debug\net6.0\PrimeiraAppConsole.exe
+C:\Users\nicol\Documents\DECOLATECH\Bootcamp-DecolaTech\Bootcamp-DecolaTech\PrimeiraAppConsole\bin\Debug\net6.0\PrimeiraAppConsole.deps.json
+C:\Users\nicol\Documents\DECOLATECH\Bootcamp-DecolaTech\Bootcamp-DecolaTech\PrimeiraAppConsole\bin\Debug\net6.0\PrimeiraAppConsole.runtimeconfig.json
+C:\Users\nicol\Documents\DECOLATECH\Bootcamp-DecolaTech\Bootcamp-DecolaTech\PrimeiraAppConsole\bin\Debug\net6.0\PrimeiraAppConsole.dll
+C:\Users\nicol\Documents\DECOLATECH\Bootcamp-DecolaTech\Bootcamp-DecolaTech\PrimeiraAppConsole\bin\Debug\net6.0\ref\PrimeiraAppConsole.dll
+C:\Users\nicol\Documents\DECOLATECH\Bootcamp-DecolaTech\Bootcamp-DecolaTech\PrimeiraAppConsole\bin\Debug\net6.0\PrimeiraAppConsole.pdb
+C:\Users\nicol\Documents\DECOLATECH\Bootcamp-DecolaTech\Bootcamp-DecolaTech\PrimeiraAppConsole\obj\Debug\net6.0\PrimeiraAppConsole.csproj.AssemblyReference.cache
+C:\Users\nicol\Documents\DECOLATECH\Bootcamp-DecolaTech\Bootcamp-DecolaTech\PrimeiraAppConsole\obj\Debug\net6.0\PrimeiraAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Documents\DECOLATECH\Bootcamp-DecolaTech\Bootcamp-DecolaTech\PrimeiraAppConsole\obj\Debug\net6.0\PrimeiraAppConsole.AssemblyInfoInputs.cache
+C:\Users\nicol\Documents\DECOLATECH\Bootcamp-DecolaTech\Bootcamp-DecolaTech\PrimeiraAppConsole\obj\Debug\net6.0\PrimeiraAppConsole.AssemblyInfo.cs
+C:\Users\nicol\Documents\DECOLATECH\Bootcamp-DecolaTech\Bootcamp-DecolaTech\PrimeiraAppConsole\obj\Debug\net6.0\PrimeiraAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\DECOLATECH\Bootcamp-DecolaTech\Bootcamp-DecolaTech\PrimeiraAppConsole\obj\Debug\net6.0\PrimeiraAppConsole.dll
+C:\Users\nicol\Documents\DECOLATECH\Bootcamp-DecolaTech\Bootcamp-DecolaTech\PrimeiraAppConsole\obj\Debug\net6.0\ref\PrimeiraAppConsole.dll
+C:\Users\nicol\Documents\DECOLATECH\Bootcamp-DecolaTech\Bootcamp-DecolaTech\PrimeiraAppConsole\obj\Debug\net6.0\PrimeiraAppConsole.pdb
+C:\Users\nicol\Documents\DECOLATECH\Bootcamp-DecolaTech\Bootcamp-DecolaTech\PrimeiraAppConsole\obj\Debug\net6.0\PrimeiraAppConsole.genruntimeconfig.cache
