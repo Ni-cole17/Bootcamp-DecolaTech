@@ -50,8 +50,36 @@ método somar de outro são as quantidades de atributos declarados. Portanto, se
 Já esse outro tipo de polimorfismo permite que métodos de uma classe mãe sejam "reaproveitados" e modificados dentro das classes filhas, de acordo com a necessidade.
 
 
-## Classes Abstratas
+## Classes Abstratas: 
+
+ - Classes abstratas
+Uma classe abstrata tem como objetivo ser exclusivamente um modelo para ser herdado, portanto não pode ser instanciada. Você pode implementar métodos ou deixa-los a cargo de quem herdar.
+
+ - Classes Seladas: 
+Uma classe selada tem como objetivo de impedir que outras classes façam uma herança dela, ou seja, nenhuma classe pode ser sua derivada.
+Também existem métodos e propriedades seladas.
+
+ - Classe Objeto: 
+
+A classe System.Object é a mãe de todas as classes na hierarquia do .NET. Todas as classes derivam, direta ou indiretamente da classe Object, e ela tem como objetivo prover serviços de baixo nível para suas classes filhas.
+
 
 ## Interfaces
 
+Uma interface é um contrato que pode ser implementado por uma classe.
+É como se fosse uma classe abstrata, podendo definir métodos abstratos para serem implementados.
+Assim como uma classe abstrata, uma interface não pode ser instanciada.
+
+
 ## Manipulação de Arquivos
+
+Em c# a manipulação de arquivos é feita com algumas classes já pré-definidas na linguagem são elas:
+ - File
+ - Directory
+ - Path
+Exemplo da utilização de todo o conteúdo abordado nessa anotação está na pasta POO desse repositório.
+
+
+Fonte: 
+Leonardo de Lima Buta
+Desenvolvedor .NET - Expert DIO
