@@ -1,0 +1,27 @@
+#Adicionar{
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 100%;
+    border-color: cornflowerblue;
+}
+h2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lista{
+    align-items: center;
+    justify-content: center;
+    margin-left: 40%;
+    margin-top: 30px;
+}
+
+#elementos{
+    display: none;
+}
