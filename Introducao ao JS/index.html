@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css" />
+    <title>Contador</title>
+</head>
+<body>
+    <h1>Olá, mundo!</h1>
+    <p>Este é o meu primeiro projeto Javascript.</p>
+    <div id="counter">
+        <button id="btn1" name="subtrair">-</button>
+        <span id="currentNumber">0</span>
+        <button id="btn2" name="adicionar">+</button>
+    </div>
+    <script>
+        var count = 0
+        var btn1 = document.getElementById('btn1');
+        var btn2 = document.getElementById('btn2');
+        var currentNumber = document.getElementById('currentNumber').value;
+        var currentN = document.getElementById('currentNumber');
+        btn1.addEventListener("click",function(){
+            if(count>=-5){
+            count=count-1;
+            document.getElementById('currentNumber').innerHTML = count;
+            }
+            //currentN.style.color= "red";
+            
+            Mudacor();
+        });
+        btn2.addEventListener("click",function(){
+            if (count<=9){
+            count=count+1;
+            document.getElementById('currentNumber').innerHTML = count;
+            }
+            Mudacor();
+        });
+        function Mudacor(){
+            if(count<=0){
+                currentN.style.color= "red";
+            }
+            else{
+                currentN.style.color= "black";
+            }
+        }
+        
+    </script>
+
+    <script src="assets/script.js"></script>
+</body>
+
+</html>
